@@ -1,0 +1,2 @@
+Hey all 👋,
+I’m Anisha Rachel George, I'm highly interested in C, C++, Problem-solving and development domains. Apart from this, I'm also passionate about creative writing with a good command on both English and Hindi languages. I'm currently pursuing my B.tech in Computer Science from VIT, Bhopal. I'm here to gather new ideas, knowledge and share mine. Looking forward for great new opportunities to collaborate with you all. You can reach me freely at anisharachel2002@gmail.com 
