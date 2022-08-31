@@ -2,7 +2,7 @@
 <h1 align="left">About🤩</h1>
 <h3>
 Hi there, I'm Anisha! 👋 </h3>
-<br>
+
 📢 I'm a <b>Frontend web developer</b>, an <b>aspiring Full Stack developer</b> with special interest in <b>Cloud-related tools</b> and technologies
 
 🥇 I'm currently pursuing my 3rd year of B.tech in <b>Computer Science and Engineering</b> from Vellore Institute of Technology
