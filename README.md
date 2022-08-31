@@ -1,5 +1,5 @@
 <p align = "center"><img src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/my_intro.gif" width=600px/></p>
-
+<h1 align="left">About🤩</h1>
 <h2 align= "left">
 Hi there, I'm Anisha! 👋 </h2>
 
@@ -17,12 +17,13 @@ Hi there, I'm Anisha! 👋 </h2>
 
 <h3 align="center">Feel free to connect with me❤️
 
-<br/>
+<br>
+
 
 <p align = "center"><img src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/code_quote.jpg" width="500px"/>
 
-<br/>
-
+<br>
+<h1 align="center"> My Skill Set </h1>
 
 <table align="center">
 <tbody>
@@ -55,7 +56,7 @@ Hi there, I'm Anisha! 👋 </h2>
 </tr>
 </tbody>
 </table>
-
+<br>
 <h1 align="center"> GitHub Overview </h1>
 
 <table>
@@ -75,13 +76,13 @@ Hi there, I'm Anisha! 👋 </h2>
 <p align="Center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anisha-2012" alt="Anisha-2012" /></a> </p>
 <br>
 
-<h1 align="center"> Socials <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70">  </h1>
+<h1 align="center"> Socials🙌
+</h1>
 <p align="center">
-<a href="mailto:anisharachel2002@gmail.com"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/mail.png" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anisha-rachel-george-467781212"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/linkedin.png"/></a> 
+<a href="mailto:anisharachel2002@gmail.com"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/mail.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anisha-rachel-george-467781212"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/linkedin.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/AnishaRachelGe1?t=-yP7pwjxTzpTHKVQKyWnAQ&s=08"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/twitter.png" /></a> &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/anisha_rachel20/" target="blank"><img align="center" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/instagram%20(2).png" alt="Jaideep25-tech" height="30" width="40" /></a>
 </p>
 <br>
 
