@@ -59,7 +59,7 @@ Hi there, I'm Anisha! 👋 </h2>
 </table>
 <br>
 <h1 align="center"> GitHub Overview </h1>
-
+<br>
 <table>
 <tr>
 <td>
@@ -68,6 +68,7 @@ Hi there, I'm Anisha! 👋 </h2>
 </td>
 </tr>
 </table>
+ <br>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anisha-2012&theme=tokyonight" />
 </p>
@@ -79,6 +80,7 @@ Hi there, I'm Anisha! 👋 </h2>
 
 <h1 align="center"> Socials🙌
 </h1>
+ <br>
 <p align="center">
 <a href="mailto:anisharachel2002@gmail.com"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/mail.png" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/anisha-rachel-george-467781212"><img align="center" width="30px" src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/linkedin.png"/></a> &nbsp;&nbsp;&nbsp;&nbsp;
