@@ -18,13 +18,14 @@ Hi there, I'm Anisha! 👋 </h2>
 <h3 align="center">Feel free to connect with me❤️
 
 <br>
+ <br>
 
 
 <p align = "center"><img src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/code_quote.jpg" width="500px"/>
 
 <br>
 <h1 align="center"> My Skill Set </h1>
-
+<br>
 <table align="center">
 <tbody>
 <tr>
