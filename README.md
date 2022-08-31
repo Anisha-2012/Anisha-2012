@@ -1,7 +1,7 @@
 <p align = "center"><img src="https://github.com/Anisha-2012/Anisha-2012/blob/main/assets/my_intro.gif" width=600px/></p>
 <h1 align="left">About🤩</h1>
-<b>
-Hi there, I'm Anisha! 👋 </b>
+<h2 border-bottom="0">
+Hi there, I'm Anisha! 👋 </h2>
 <br>
 📢 I'm a <b>Frontend web developer</b>, an <b>aspiring Full Stack developer</b> with special interest in <b>Cloud-related tools</b> and technologies
 
